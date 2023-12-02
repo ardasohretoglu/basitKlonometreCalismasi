@@ -1,3 +1,3 @@
-# BasitKlonometreCalışması
+# KlonometreCalışması
 Web Sitesi Parçası
 Klonometre yayınlamak
