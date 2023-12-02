@@ -1,3 +1,3 @@
 # basitKlonometreCalismasi
 Web Sitesi Parçası
-Kionometre yayınlamak
+Klonometre yayınlamak
